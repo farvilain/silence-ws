@@ -1,0 +1,25 @@
+{
+  "name": "silence-ws",
+  "version": "0.0.1",
+  "description": "Utilities to build WS",
+  "author": {
+    "name": "Francois A.R. Vilain",
+    "email": "far.vilain@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:farvilain/silence-ws.git"
+  },
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "exit 1"
+  },
+  "potentialDependencies": {
+    "body-parser": "^1.0.2",
+    "mongoose": "^3.8.8"
+  },
+  "dependencies": {
+    "silence-error": "1.0.0"
+  },
+  "devDependencies": {}
+}
