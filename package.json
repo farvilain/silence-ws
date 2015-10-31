@@ -6,6 +6,7 @@
     "name": "Francois A.R. Vilain",
     "email": "far.vilain@gmail.com"
   },
+  "license": "All Right Reserved",
   "repository": {
     "type": "git",
     "url": "git@github.com:farvilain/silence-ws.git"
