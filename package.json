@@ -20,7 +20,7 @@
     "mongoose": "3.8.8"
   },
   "dependencies": {
-    "silence-error": "1.1.0"
+    "silence-error": "0.2.1"
   },
   "devDependencies": {}
 }
