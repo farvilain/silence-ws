@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "silence-error": "0.2.1",
-    "silence-log": "0.0.1",
+    "silence-log": "0.0.3",
     "silence-router": "1.3.3"
   },
   "devDependencies": {}
