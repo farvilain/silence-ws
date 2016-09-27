@@ -1,6 +1,6 @@
 {
   "name": "silence-ws",
-  "version": "0.3.7",
+  "version": "0.4.0",
   "description": "Utilities to build WS",
   "author": {
     "name": "Francois A.R. Vilain",
