@@ -18,7 +18,8 @@
   "potentialDependencies": {
     "body-parser": "1.0.2",
     "semver": "5.1.0",
-    "mongoose": "3.8.8"
+    "mongoose": "3.8.8",
+    "mysql" : "2.11.1"
   },
   "dependencies": {
     "silence-chainexecutor": "0.0.5",
