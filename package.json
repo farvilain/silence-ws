@@ -23,7 +23,7 @@
   "dependencies": {
     "silence-chainexecutor": "0.0.5",
     "silence-error": "0.2.1",
-    "silence-log": "0.0.3",
+    "silence-log": "0.0.4",
     "silence-router": "1.3.5"
   },
   "devDependencies": {}
